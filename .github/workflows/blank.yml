@@ -2,10 +2,11 @@
 name: Write prerelease comment
 
 on:
-  workflow_run:
-    workflows: ["Create Pull Request Prerelease"]
-    types:
-      - completed
+  workflow_dispatch:
+    workflow_run:
+      workflows: ["Create Pull Request Prerelease"]
+        types:
+          - completed
 
 jobs:
   comment:
