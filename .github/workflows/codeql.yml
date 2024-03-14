@@ -18,6 +18,8 @@ on:
     branches: [ "main" ]
   action:
     branches: [ "main" ]
+  code:
+    branches: [ "main" ]
 
 jobs:
   analyze:
