@@ -1,0 +1,15 @@
+{
+  "name": "mohammad-sadra-najafi",
+  "version": "1.0.0",
+  "description": "![hello-4-4948](https://github.com/Mohammad-Sadra-Najafi/Mohammad-Sadra-Najafi/assets/161742867/27235ae4-feaf-43be-95e1-96d4ccc83c28)",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@Mohammad-Sadra-Najafi"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
